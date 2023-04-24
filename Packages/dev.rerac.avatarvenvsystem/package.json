@@ -1,0 +1,15 @@
+{
+  "name": "dev.rerac.avatarvenvsystem",
+  "displayName": "R*C Avatar Venv System",
+  "version": "1.0.0",
+  "description": "A tool to copy and separate the animation layer from the original so that you can easily work on the special effects of multiple avatars on the same base, etc. within a project.",
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.avatars": "3.1.13"
+  },
+  "author": {
+    "name": "Rera*C",
+    "email": "rera_ssi@kakao.com",
+    "url": "https://rerac.dev"
+  }
+}
